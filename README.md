@@ -80,5 +80,5 @@ Software Engineering
 ## Contact
 
 - Email: [mohmadr407@gmail.com](mailto:mohmadr407@gmail.com)
-- Github: [@clonomaer](https://github.com/Mohammad-Rasa)
-- Telegram: [@clonomaer](https://t.me/Mohammad_rasa1)
+- Github: [@Mohammad-Rasa](https://github.com/Mohammad-Rasa)
+- Telegram: [@Mohammad_rasa1](https://t.me/Mohammad_rasa1)
