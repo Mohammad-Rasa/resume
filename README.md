@@ -1,5 +1,5 @@
 
-# MohammadRasa
+# Mohammad Rasa
 
 Tech enthusiast, 19 years old young mind with 4+ years of professional experience in software development. 
 
